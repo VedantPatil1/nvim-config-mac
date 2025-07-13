@@ -37,5 +37,10 @@ luac.out
 *.app
 *.i*86
 *.x86_64
-*.hex
 
+# nvim specific 
+*.hex
+*.swp
+*.undo
+*.backup
+lua/user/local.lua
